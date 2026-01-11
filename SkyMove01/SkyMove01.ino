@@ -6,14 +6,12 @@
  *
  * VERSIONS:  
  *  11/01/2026 - 01.00:  first implementation
+ *   Arduino code to move telescope eq mount Right Ascension at
+ *   1x and detect button press to cycle among speeds 1x->8x->-6x
  *  
- NOTE: 
+ * NOTE: 
  *  This Firmware is based on original RAto project with some modifications.
  *  check inside info.h for credits and infos.
- *
- * RAto v 0.5  Arduino code to move telescope eq mount Right Ascension at
- *             1x and detect button press to cycle among speeds 1x->8x->-6x
- *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * How to calculate STEP_DELAY to drive motor at right speed to follow stars
  * 
